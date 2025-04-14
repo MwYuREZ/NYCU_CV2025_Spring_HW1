@@ -18,5 +18,9 @@ $ python train.py
 
 ## Performance Snapshot  
 
+![image](https://github.com/user-attachments/assets/27dba3ec-6636-4f1b-a209-665e12e6cec6)
 
-![training_curve](https://github.com/user-attachments/assets/406a0358-0307-4ace-b5bc-9255246b85c5)
+
+![training_curve](https://github.com/user-attachments/assets/406a0358-0307-4ace-b5bc-9255246b85c5)  
+
+

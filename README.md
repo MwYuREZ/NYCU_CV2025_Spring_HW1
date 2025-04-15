@@ -10,8 +10,9 @@ In this work, I employ ResNeXt50 as the backbone for addressing an image classif
 $ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 ```sh
-$ pip install matplotlib
+$ pip install -r requirements.txt
 ```
+Train:  
 ```sh
 $ python train.py
 ```
